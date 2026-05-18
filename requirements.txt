@@ -1,0 +1,13 @@
+pandas
+numpy
+polars
+scipy
+lightgbm
+scikit-learn
+seaborn
+matplotlib
+yfinance
+solara
+plotly
+python-dotenv
+pyarrow
